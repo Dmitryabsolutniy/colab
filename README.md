@@ -1,3 +1,1 @@
 # Привет colab
-
-test text.
